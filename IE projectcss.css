@@ -1,0 +1,43 @@
+
+@media (max-width:500px ) {
+
+    .um{
+        font-size: 2px;
+    }
+
+    
+}
+    
+
+
+.oh{
+    background-color: rgb(135, 195, 164);
+    font-size:35px ;
+}
+
+.um{
+    background-color: rgb(207, 234, 201);
+    font-size: 30px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(72, 112, 110);
+    color: rgb(48, 97, 68);
+    
+}
+
+.umm{
+    font-size: 25px;
+    background-color: rgb(95, 162, 103);
+    color: aliceblue;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom:0;
+    height: 50px;
+    margin-bottom: 0;
+}
+
+.body{
+    background-color: rgb(152, 214, 186);
+}
+
